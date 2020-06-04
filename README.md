@@ -1,6 +1,6 @@
 # TicTacToe
 The classic game of Tic tac toe in Android Studio 4.0
-##How to run
+## How to run:
 Import as a project in Android Studio and Run.
 Use Emulator or a connected Andorid device.
 ![Screenshot_20200604-183526](https://user-images.githubusercontent.com/48234795/83760487-a280af80-a692-11ea-8436-f8fd8377e84c.jpg)
